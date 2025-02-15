@@ -329,10 +329,10 @@ btn_theme.pack(side="left", padx=10)
 
 # Help Section
 def open_documentation():
-    webbrowser.open("https://raw.githubusercontent.com/YourUsername/YourRepo/main/docs/user_documentation.pdf")
+    webbrowser.open("https://raw.githubusercontent.com/EmmanuelImpact/Final-Year-Project/main/User Documentation/User_Documentation.pdf")
 
 def open_github():
-    webbrowser.open("https://github.com/YourUsername/YourRepo")  # Replace with the actual GitHub link
+    webbrowser.open("https://github.com/EmmanuelImpact/Final-Year-Project")  # Replace with the actual GitHub link
 
 # Function to toggle theme and update text color
 def toggle_theme():
